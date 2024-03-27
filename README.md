@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gabriel Henrique Marques 🖐🏼
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-henrique-silva-marques-325014252)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.hsmarques)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-henrique-silva-marques-325014252)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel.hsmarques)
 
 ![Gabriel Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielhsmarques&show_icons=true&theme=synthwave)
 
@@ -17,5 +17,5 @@
    
 ### Entre em contato:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] gabrielhsmarques27@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) gabrielhsmarques27@gmail.com
 
