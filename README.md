@@ -17,5 +17,5 @@
    
 ### Entre em contato:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) gabrielhsmarques27@gmail.com
+- gabrielhsmarques27@gmail.com
 
